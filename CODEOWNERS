@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ChocolaiBA
+/src/backend/database.py      @ChocolaiBA
+/src/backend/routers/auth.py  @ChocolaiBA
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ChocolaiBA
